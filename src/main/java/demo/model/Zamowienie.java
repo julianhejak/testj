@@ -15,7 +15,7 @@ import javax.persistence.ManyToOne;
 import org.hibernate.annotations.ManyToAny;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
-
+//test
 @Entity(name="zamowienie")
 @Table(schema="public")
 public class Zamowienie {
