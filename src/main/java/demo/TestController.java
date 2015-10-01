@@ -13,6 +13,7 @@ public class TestController {
 	 @RequestMapping("/test.html")
 	    public String getListUsersView(Model model) {
 	        //ModelMap model = new ModelMap();
+			//test
 	        return "test";
 	    }
 	
