@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.SpringApplication;
-
+//zmiany do mastera
 @SpringBootApplication
 public class HelloBootApplication {
 
