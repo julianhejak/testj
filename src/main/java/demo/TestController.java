@@ -15,6 +15,6 @@ public class TestController {
 	        //ModelMap model = new ModelMap();
 			//test
 	        return "test";
-	    } 
+	    }
 	
 }
