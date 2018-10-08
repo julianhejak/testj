@@ -6,19 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 //zmiana do dev_test test jeszcze jedna zmina zmiana jeszcze raz
 //zmiana na master
-<<<<<<< HEAD
 
-//--zmiany do brancz
-
-//thzmiany do brancz
-
-
-//jh--zmiany do brancz
-
-=======
-//zmiany do brancz
-// tu mamy zmianyn na master
->>>>>>> master
 @RestController
 public class HelloController {
 
