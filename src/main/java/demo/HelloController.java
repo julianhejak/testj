@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 //zmiana do dev_test test jeszcze jedna zmina zmiana jeszcze raz
 //zmiana na master
-//nowy_do_drugi_brach
+
 @RestController
 public class HelloController {
 
