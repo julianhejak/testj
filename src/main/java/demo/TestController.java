@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
 //test test test
+//test test cos zmienia
 @Controller
 public class TestController {
 
