@@ -22,7 +22,7 @@ import org.springframework.cache.annotation.Caching;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import com.fasterxml.jackson.annotation.JsonSubTypes.Type;
-
+//tymaszasowy
 @Entity(name = "klient")
 @Table(schema = "public")
 public class Klient {
