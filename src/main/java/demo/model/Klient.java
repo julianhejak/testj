@@ -23,7 +23,6 @@ import org.springframework.cache.annotation.Caching;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import com.fasterxml.jackson.annotation.JsonSubTypes.Type;
 //1 komit
-// 2 komit
 @Entity(name = "klient")
 @Table(schema = "public")
 public class Klient {
